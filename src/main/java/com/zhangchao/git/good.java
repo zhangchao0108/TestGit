@@ -9,6 +9,7 @@ public class good {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("test....conflict_second");
+		System.out.println("test....conflict_first");
 
 	}
 
