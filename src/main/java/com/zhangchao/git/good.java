@@ -10,6 +10,7 @@ public class good {
 		// TODO Auto-generated method stub
 		System.out.println("test....conflict_second");
 		System.out.println("test....conflict_first");
+		System.out.println("test....new branch hot_fix");
 
 	}
 
